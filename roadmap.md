@@ -1,7 +1,7 @@
 # AVTOQISM prototype roadmap
-- [ ] Build shared visual system and navigation
-- [ ] Build Home screen
-- [ ] Build Garage screen
-- [ ] Build Product Detail screen
-- [ ] Build Social Feed screen
-- [ ] Verify desktop and mobile presentation
+- [x] Build shared visual system and navigation
+- [x] Build Home screen
+- [x] Build Garage screen
+- [x] Build Product Detail screen
+- [x] Build Social Feed screen
+- [x] Verify desktop and mobile presentation
